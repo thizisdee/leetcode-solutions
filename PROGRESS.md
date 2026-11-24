@@ -17,3 +17,21 @@
 - Solutions pushed to GitHub.
 - LeetCode online submissions: Pending.
 - Documentation: Pending.
+
+## LeetCode Submissions
+
+| Problem | Status |
+|---|---|
+| Two Sum | Accepted |
+| Reverse String | Accepted |
+| Valid Anagram | Accepted |
+| Best Time to Buy and Sell Stock | Accepted |
+| Longest Common Prefix | Accepted |
+| Binary Search | Accepted |
+| Move Zeroes | Accepted |
+| Valid Parentheses | Accepted |
+
+## LeetCode Practice
+
+- Submitted solutions on LeetCode.
+- Screenshots of Accepted submissions saved.
